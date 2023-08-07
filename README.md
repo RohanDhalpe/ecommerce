@@ -3,7 +3,7 @@
  A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
  
 
- ### Live Demo  https://superb-rolypoly-50ce37.netlify.app/
+ ## Live Demo  https://superb-rolypoly-50ce37.netlify.app/
 
 
 ## Features
