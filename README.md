@@ -1,3 +1,4 @@
+![](http://imgur.com/t3teAxi.png)
 #  BharatStore E-CommerceWebsite
  A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
  
