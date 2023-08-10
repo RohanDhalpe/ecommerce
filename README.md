@@ -3,7 +3,7 @@
  A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
  
 
- ## Live Demo  e-commercewebs.netlify.app
+ ## Live Demo  https://e-commercewebs.netlify.app/
 
 
 ## Features
